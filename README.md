@@ -65,14 +65,14 @@ Using version control to track progress
 
 📚 Topics Covered
 
-Array Basics (traversal, insertion, deletion)
-Searching Algorithms (linear, binary)
-Sorting Algorithms (bubble, merge, quick)
-Two-Pointer Technique
-Sliding Window
-Prefix Sum Arrays
-Dynamic Programming with Arrays
-Advanced Array Manipulation
+- Array Basics (traversal, insertion, deletion)
+- Searching Algorithms (linear, binary)
+- Sorting Algorithms (bubble, merge, quick)
+- Two-Pointer Technique
+- Sliding Window
+- Prefix Sum Arrays
+- Dynamic Programming with Arrays
+- Advanced Array Manipulation
 
 
 🤝 Contributing to My Learning
