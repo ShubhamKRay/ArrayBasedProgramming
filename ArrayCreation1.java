@@ -5,7 +5,8 @@ class ArrayCreation1 {
 			System.out.print(nums[i]+" ");
 		
 		System.out.println("\n==============");
-	
+
+		//using for-each/enhanced for loop
 		for(int x:nums)
 			System.out.print(x+" ");
 					

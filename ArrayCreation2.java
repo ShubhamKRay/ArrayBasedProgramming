@@ -5,6 +5,7 @@ public class ArrayCreation2 {
 		displayDetails(nums);				
 	}
 
+	//By using method
 	public static void displayDetails(int[] arr){
 		for(int x:arr){
 			System.out.println(x);
