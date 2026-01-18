@@ -7,8 +7,8 @@ public class ArrayCreation2 {
 
 	//By using method
 	public static void displayDetails(int[] arr){
-		for(int x:arr){
-			System.out.println(x);
+		for(int x : arr){
+			System.out.print(x+" ");
 		}
 	}
 

@@ -10,22 +10,20 @@
 ---
 
 ## 📌 About This Repository  
-This repository contains all my **Array-based programming solutions**.  
-Main yahan regular basis par different array problems solve karta hoon taaki:
+This repository contains all my array-based programming solutions. I regularly solve different array problems to:
 
-- logic strong ho  
-- problem-solving improve ho  
-- programming confidence build ho  
+- Build a strong logical foundation
+- Improve problem-solving skills
+- Develop programming confidence
+- Master core data structures and algorithms
 
-This repo is **not tied to any single platform** —  
-main bas array-related concepts practice karta hoon in different languages.
+This repository is language-agnostic — I focus on array-related concepts and can implement solutions in multiple programming languages.
 
 ---
 
 ## 🧠 Why Arrays?
 
-Arrays are the base of DSA.  
-Inme mastery hone se kaafi tarah ki problems solve karna easy hota hai. 
+Arrays are the foundation of Data Structures and Algorithms (DSA). Mastering arrays makes it significantly easier to solve a wide variety of programming problems.
 
 
 ---
@@ -33,16 +31,16 @@ Inme mastery hone se kaafi tarah ki problems solve karna easy hota hai.
 ## 📁 Folder / File Structure
 
 
-Har file ek specific array concept ko represent karti hai.
+Each file represents a specific array concept or problem category.
 
 ---
 
 ## 🎯 My Goals
  
-- 📈 Strong fundamentals build karna  
-- 🧠 Logical thinking improve karna  
-- 💡 Code quality aur optimization seekhna  
-- 🔥 Regular practice maintain karna  
+- 📈 Build strong fundamentals in array operations
+- 🧠 Improve logical thinking and algorithmic approach
+- 💡 Learn code quality, optimization, and best practices
+- 🔥 Maintain consistent practice and skill development
 
 ---
 
@@ -55,6 +53,33 @@ Har file ek specific array concept ko represent karti hai.
 
 ## ⚡ How I Update This Repo
 
-Main apna code manually ya kisi tool ki help se update karta hoon.  
+I update this repository regularly by:
+
+Writing and testing solutions manually
+Refactoring code for better readability and performance
+Adding detailed comments and explanations
+Documenting time and space complexity
+Using version control to track progress
 
 
+
+📚 Topics Covered
+
+- Array Basics (traversal, insertion, deletion)
+- Searching Algorithms (linear, binary)
+- Sorting Algorithms (bubble, merge, quick)
+- Two-Pointer Technique
+- Sliding Window
+- Prefix Sum Arrays
+- Dynamic Programming with Arrays
+- Advanced Array Manipulation
+
+
+🤝 Contributing to My Learning
+While this is primarily a personal learning repository, I'm open to feedback. If you notice improvements or have suggestions, feel free to reach out.
+
+📝 License
+This repository is for educational purposes. Feel free to use these solutions for learning.
+
+Last Updated: January 2026
+Happy Coding! 💻

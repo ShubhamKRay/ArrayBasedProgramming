@@ -7,7 +7,7 @@ public class Q_4 {
 
     public static void main(String[] args) {
         String []str = {"abc", "xyzp", "pqrstu", "aaa"};
-        String big= getBiggestString(str);
+        String big = getBiggestString(str);
         System.out.println(big);
     }
 
@@ -19,23 +19,6 @@ public class Q_4 {
         }
         return big;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }

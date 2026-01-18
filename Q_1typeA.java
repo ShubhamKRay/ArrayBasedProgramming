@@ -1,5 +1,5 @@
 public class Q_1typeA {
-//WAJP to swap two arraysk
+//WAJP to swap two arrays
 
     public static void main(String[] args){
         int[] a={10, 20, 30, 40, 50};
@@ -17,9 +17,9 @@ public class Q_1typeA {
         displayValues(a);
         displayValues(b);
     }
-    public static void displayValues(int[] nums){
-        for(int x:nums)
-            System.out.print(x+" ");
+    public static void displayValues(int[] nums) {
+        for (int x : nums)
+            System.out.print(x + " ");
         System.out.println();
     }
 

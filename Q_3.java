@@ -10,5 +10,10 @@ public class Q_3 {
             System.out.println(n+" size is -> "+n.length());
 
         }
+
+        //for loop
+        for (int i=0; i<name.length; i++){
+            System.out.println(name[i]+" length of strings : "+name[i].length());
+        }
     }
 }
